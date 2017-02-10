@@ -1,0 +1,81 @@
+
+
+header{
+    width: 100%;
+    margin-bottom: 1em;
+    padding:1em;
+    display: inline-block;
+    background-image: url("../images/wood.jpg");
+    text-align: center;
+}
+
+
+header h1 {
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 2px 2px red;
+    text-transform: uppercase;
+    
+}
+
+#frmMenu{
+    background-image: url(../images/white.jpg);
+    height:700px;
+
+}
+
+.menuone{
+    text-align: center;
+    width:50%;
+    float:right;  
+}
+.menutwo{
+     text-align: center;
+    width:50%;
+    float:left;  
+}
+
+.menuthree{
+     text-align: center;
+    margin-top: 1em;
+    width:50%;
+    float:right;  
+}
+
+.menufour{
+    margin-top: 1em;
+     text-align: center;
+    width:50%;
+    float:left;  
+}
+
+.menufive{
+     text-align: center;
+    margin-top: 1em;
+    width:50%;
+    float:right;  
+}
+
+.menusix{
+     text-align: center;
+    width:50%;
+    margin-top: 1em;
+    float:left;  
+}
+
+footer{
+    
+    margin-top: 1em;
+    margin-right:1em;
+    padding-bottom: 1em;
+    width:30%;
+    float:right;
+    background-color: oldlace;
+    text-align: center;
+}
+
+h3{
+    color: crimson;
+    text-shadow: 1px 1px silver;
+    
+}
